@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: royalblue;
+    font-size: 50px;
+}
+
+#Pon {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
